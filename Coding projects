@@ -1,1 +1,6 @@
+for (let loop counter = 0; loopcounter < 5; loopCounter++) 
+{console,log(loopCounter); var number0DaysCounter = 0; var number0Days = 3; var days0week = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+while (nuberofdaysCounter) < numberofdays)
+{ consloe.log(days0Week[numberofdayscounter]); numberOfDaysCounter++; }2
+
 
